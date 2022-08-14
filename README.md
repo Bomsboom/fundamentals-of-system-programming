@@ -1,3 +1,4 @@
 # fundamentals-of-system-programming
-Practical work "File I/O and dynamic libraries" (C/Linux OS)
-ываприольдбжюэ.
+## Practical work "File I/O and dynamic libraries" (C/Linux OS)
+
+
